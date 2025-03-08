@@ -1,9 +1,8 @@
-This is where the contributing.md file will be when it is complete, which will happen in the very near future.
-# Contributing to the "Cutting the Cord" Repository
+# Contributing Guidelines
 
 Thank you for your interest in contributing to the "Cutting the Cord" repository! This project aims to provide resources and guides for individuals who want to reduce their reliance on expensive, proprietary, or invasive services by exploring free, open-source, and affordable alternatives. Our goal is to empower people to take control of their digital lives with a focus on privacy, security, and accessibility.
 
-## 📌 What We Are Looking For
+## What We Are Looking For
 We welcome contributions that fit within the scope of the repository. Here are some areas where you can help:
 
 1. **Home Server Guides**: Tutorials on setting up personal servers for self-hosted alternatives (e.g., media streaming, file sharing, personal cloud storage).
@@ -12,7 +11,7 @@ We welcome contributions that fit within the scope of the repository. Here are s
 4. **Practical Tools**: Recommendations for useful software and hardware that support independent and private computing.
 5. **DIY Projects**: Step-by-step instructions for creating your own solutions (e.g., setting up a Raspberry Pi-based media center).
 
-## 🛠️ How to Contribute
+## 🛠How to Contribute
 
 ### 1. Fork and Clone the Repository
 1. Fork the repository to your GitHub account.
@@ -76,10 +75,10 @@ Jellyfin is an open-source media server that allows you to host and stream your 
    ```
 2. Open a pull request from your fork to the main repository.
 
-## 🧹 Code of Conduct
+## Code of Conduct
 Be respectful and inclusive in all interactions. Follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
-## 📚 Resources
+## Resources
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Docs](https://docs.github.com/)
 
