@@ -14,5 +14,7 @@ Here is the physical rack layout for your home lab:
 
 Here is the diagram of the rack as noted above:
 
-//TODO: Add a diagram of the layout mentioned above here
+**Reference: Rack Layout**
+
+<img alt="Rack Layout Diagram" src="racklayout.png" >
 
