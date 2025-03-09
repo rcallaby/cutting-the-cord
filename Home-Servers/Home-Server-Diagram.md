@@ -1,7 +1,8 @@
 This will give you a clear visual representation of how everything will connect and operate.
 
-//TODO: Insert Home Network Diagram here.
+**Referenee: Network Diagram**
 
+<img alt="Network Diagram" src="homenetwork.png">
 
 Here is the network diagram for your home lab and media center setup:  
 
