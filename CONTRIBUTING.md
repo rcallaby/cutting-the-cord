@@ -11,7 +11,7 @@ We welcome contributions that fit within the scope of the repository. Here are s
 4. **Practical Tools**: Recommendations for useful software and hardware that support independent and private computing.
 5. **DIY Projects**: Step-by-step instructions for creating your own solutions (e.g., setting up a Raspberry Pi-based media center).
 
-## 🛠How to Contribute
+## How to Contribute
 
 ### 1. Fork and Clone the Repository
 1. Fork the repository to your GitHub account.
