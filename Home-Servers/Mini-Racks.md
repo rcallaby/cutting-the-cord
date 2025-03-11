@@ -3,11 +3,45 @@
 There is a trend of using mini-racks for the home user or those studying for a job in networking or information security. This is just the beginning of a guide on how to set up a mini rack for such use cases.
 
 
-## Equipment Used in Jeff Geerling's Mini-Rack Project  
+## Equipment Used in a Mini-Rack Project  
 Based on the mini-rack project, the key equipment used includes:  
 
-1. **Mini Rack Chassis** – A small, portable rack (like a 6U or 9U rack) for mounting hardware.  
+1. **Mini Rack Chassis** – A small, portable rack (like a 6U or 9U rack) for mounting hardware:
+
+**RackChoice 1U Compact Server/Desktop Mini-ITX Chassis**  
+Features an internal drive bay accommodating either one 3.5" HDD or two 2.5" SSDs. Equipped with two 40mm fans (expandable to three) and a hidden front grille for efficient airflow. Price: $99.99. citeturn0search1
+
+**In Win IW-RF100-S315 1U Short-depth Rackmount Server Chassis**  
+Compatible with Mini-ITX and ATX motherboards. Includes a 315W power supply and front ports with two USB 3.0 connections. Dimensions: 1.75" x 19.00" x 14.37". Price: $176.99. citeturn0search2
+
+**iStarUSA S-35-B4RD Tower Compact Stylish Chassis**  
+Supports Mini-ITX motherboards. Features four hot-swap 3.5" drive bays and one internal 2.5" drive bay. Includes one expansion slot and two front USB 2.0 ports. Dimensions: 8.90" x 8.68" x 12.76". Price: $175.95. citeturn0search2
+
+**iStarUSA D-400-6-Blue 4U Rackmount Compact Stylish Server Chassis**  
+Compatible with motherboards up to 12" x 10". Offers six external 5.25" drive bays, two external 3.5" drive bays, and two internal 3.5" drive bays. Front ports include two USB 2.0 connectors. Dimensions: 19.0" x 7.0" x 20.8". Price: $199.99. citeturn0search2
+
+**Sonnet RackMac mini 1U Rack Enclosure**  
+Designed to securely install one or two Mac minis in a standard 1U rackmount enclosure. Provides front panel access to the power button, IR sensor, and USB port for each Mac mini. Ensures proper airflow to keep the installed Mac minis cool. Price: $209.99. citeturn0search8
+   
 2. **Compact Servers/Nodes** – Small form factor servers or Raspberry Pis for computing tasks.  
+
+**HPE ProLiant DL20 Gen10**  
+A compact 1U rack server designed for versatility and performance. Supports Intel® Xeon® E processors, up to 64 GB DDR4 ECC memory, and offers flexible storage options with up to two Large Form Factor (LFF) or four Small Form Factor (SFF) drives. Ideal for small businesses and remote offices requiring a balance of performance and affordability.
+
+**Dell PowerEdge R240**  
+An entry-level 1U rack server optimized for budget-conscious businesses. Equipped with Intel® Xeon® E-2200 processors, supports up to 64 GB DDR4 memory, and provides flexible storage configurations with up to four 3.5-inch cabled hard drives. Suitable for web hosting, mail, and file servers.
+
+**Lenovo ThinkSystem SR250**  
+A 1U rack server offering enterprise-class features for small to medium-sized businesses. Supports Intel® Xeon® E-2100 processors, up to 64 GB DDR4 memory, and flexible storage options, including up to four 3.5-inch or eight 2.5-inch drives. Ideal for workloads like virtualization and cloud computing.
+
+**Supermicro SuperServer 5019C-M**  
+A compact 1U rack server featuring Intel® Xeon® E processors, up to 64 GB ECC DDR4 memory, and support for up to four 3.5-inch hot-swap SATA drives. Designed for applications requiring reliability and performance in a space-saving form factor.
+
+**Inspur NF5280M6**  
+A 2U dual-socket rackmount server suitable for data analysis and processing, as well as distributed storage in deep learning training. Supports the latest Intel® Xeon® Scalable processors and offers flexible storage configurations. 
+
+Please note that compatibility with specific mini-rack enclosures depends on the enclosure's dimensions and mounting specifications. It's advisable to verify the server's dimensions and consult the enclosure's documentation to ensure proper fit and compatibility. 
+
 3. **Network Switch** – Managed or unmanaged gigabit network switch for interconnecting devices.  
 4. **Storage Devices** – NAS units or self-built storage servers.  
 5. **Power Distribution Unit (PDU)** – Provides power to all devices from a single source.  
