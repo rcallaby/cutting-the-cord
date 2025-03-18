@@ -43,6 +43,25 @@ A 2U dual-socket rackmount server suitable for data analysis and processing, as 
 Please note that compatibility with specific mini-rack enclosures depends on the enclosure's dimensions and mounting specifications. It's advisable to verify the server's dimensions and consult the enclosure's documentation to ensure proper fit and compatibility. 
 
 3. **Network Switch** – Managed or unmanaged gigabit network switch for interconnecting devices.  
+
+When selecting a network switch for a home mini-rack or server setup, it's essential to consider factors such as port count, speed, management capabilities, and rack compatibility. Below is a selection of both new and used rack-mountable switches suitable for home networks:
+
+**Cisco CBS350-8MGP-2X**  
+This switch offers 8 Gigabit Ethernet ports with PoE+ support and 2 10-Gigabit SFP+ uplink ports. It's known for its robust features suitable for advanced home networking needs. citeturn0search0
+
+**TP-Link TL-SG3210XHP-M2**  
+Featuring 8 Multi-Gigabit ports with PoE++ and 2 10-Gigabit SFP+ slots, this switch is ideal for high-speed home networks requiring Power over Ethernet capabilities. citeturn0search0
+
+**TRENDnet TPE-TG380**  
+An 8-port Gigabit PoE+ switch that's easy to set up, making it suitable for straightforward home networking requirements. citeturn0search0
+
+**Dell PowerConnect 6224**  
+A 24-port Gigabit managed switch with robust features, suitable for complex home networks. Used models are available at reasonable prices. citeturn0search1
+
+**Cisco SG300-10**  
+This 10-port Gigabit managed switch includes 2 SFP ports, offering flexibility for fiber connections. It's a reliable choice for home setups. citeturn0search1
+
+
 4. **Storage Devices** – NAS units or self-built storage servers.  
 5. **Power Distribution Unit (PDU)** – Provides power to all devices from a single source.  
 6. **Cooling Solutions** – Active cooling like rack-mounted fans.  
